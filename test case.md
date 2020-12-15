@@ -1,7 +1,7 @@
 # Authenticator Lifecycle Requirements<h1>
 
-| No | Preconditions | Inputs | Actions | Expectd |
+| Preconditions | Inputs |
 | --- | --- |
-| 1 | Correct username and password |
-| 2 | Incorrect password |
-| 3 | Incorrect |
+| Correct username and password | Username password |
+| Incorrect password | Username password |
+| Incorrect | Username password |
