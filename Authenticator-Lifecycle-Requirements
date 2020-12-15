@@ -1,5 +1,0 @@
-# Authenticator Lifecycle Requirements
-
-| Preconditions | Inputs | Actions | Expect |
-|-----------|-----------|-----------|-----------|
-| Correct username <br>and password | Username <br>password | 1.Open page login<br>2.Add username <user><br>3.Add password <1234><br>4.click button login | 1.User can log in<br>2. Information page display system<br>3. Message system "Welcome to login" |
